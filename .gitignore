@@ -1,0 +1,12 @@
+.wrangler/
+node_modules/
+test-results/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+**/.svn/
+**/_vti_cnf/
+**/.vs/
+**/obj/
+**/bin/

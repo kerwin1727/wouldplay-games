@@ -1,0 +1,14 @@
+{
+  "name": "wouldplay-games",
+  "account_id": "23fbf67a9084e9628ab17b73beaf3a2a",
+  "compatibility_date": "2026-10-27",
+  "workers_dev": true,
+  "assets": {
+    "directory": ".",
+    "html_handling": "none",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "game.haisiplus.cn", "custom_domain": true }
+  ]
+}
